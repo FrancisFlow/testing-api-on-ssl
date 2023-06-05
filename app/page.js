@@ -1,6 +1,6 @@
 "use client"
 import { useState } from "react"
-const apiKey = process.env.NEXT_PUBLIC_API_KEY
+const apiKey = process.env.API_KEY
 
 
 
