@@ -4,7 +4,7 @@ const apiKey = process.env.API_KEY
 
 
 
-export default function Home(props) {
+export default function Home() {
   const [transcripted, setTranscript]=useState('Initial')
   async function handleClick(){
     
