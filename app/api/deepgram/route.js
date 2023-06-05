@@ -1,7 +1,7 @@
 import { Deepgram } from '@deepgram/sdk';
 
 // The API key we created in step 3
-const deepgramApiKey = NEXT_PUBLIC_API_KEY;
+const deepgramApiKey = API_KEY;
 
 // Hosted sample file
 const audioUrl = "https://static.deepgram.com/examples/Bueller-Life-moves-pretty-fast.wav";
